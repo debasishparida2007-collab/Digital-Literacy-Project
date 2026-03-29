@@ -47,4 +47,4 @@ Key Learnings
 - Professional communication skills
 ---
 Conclusion
-This project helped me build a strong foundation in digital literacy and improved my understanding of using digital tools responsibly and effectively.
+- This project helped me build a strong foundation in digital literacy and improved my understanding of using digital tools responsibly and effectively.
