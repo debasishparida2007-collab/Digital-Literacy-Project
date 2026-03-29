@@ -37,7 +37,7 @@ Task 5: Cybercrime Awareness
 ---
 Useful Links
 - GitHub Profile: https://github.com/debasishparida2007-collab
-- LinkedIn Profile: linkedin.com/in/debasishparida
+- LinkedIn Profile: www.linkedin.com/in/debasishparida
 - Google Form: https://docs.google.com/forms/d/e/1FAIpQLScnSn83f84wkvdhIg5PrlGOy9e2mrPZt1SjA3xcdwpbbPAmjw/viewform?usp=header
 ---
 Key Learnings
