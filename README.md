@@ -11,7 +11,7 @@ PROJECT (README)
 Project Overview
 This project was completed as part of the Digital Literacy course. The aim of this project is to develop essential digital skills such as creating a professional online presence, understanding safe internet practices, using digital tools, and communicating effectively in a digital environment.
 ---
-Tasks Completed
+
 Task 1: Digital Literacy Infographic
 Created an infographic using Canva to explain digital literacy, safe internet practices, useful tools, and email etiquette.
 ---
